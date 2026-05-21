@@ -1,0 +1,11 @@
+City,Sector,Market_Size_USD_M,Automation_Readiness,ESG_Adoption,Data_Center_Growth,Priority_Score
+Bangalore,Data Centers,420,9,8,10,9.2
+Hyderabad,Data Centers,350,8,7,9,8.5
+Mumbai,Commercial Real Estate,500,8,9,6,8.7
+Pune,Manufacturing,280,7,6,5,6.8
+Gurgaon,Commercial Real Estate,390,8,8,6,8.1
+Bangalore,Hospitals,220,7,8,4,7.5
+Hyderabad,Hospitals,180,7,7,4,7.0
+Mumbai,Airports,310,9,7,3,7.9
+Pune,Manufacturing,260,8,5,4,6.9
+Gurgaon,Commercial Real Estate,410,8,9,5,8.4
